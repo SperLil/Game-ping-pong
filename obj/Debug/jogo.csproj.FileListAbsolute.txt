@@ -1,0 +1,11 @@
+C:\Users\lilsp\OneDrive\Documentos\Aula\pingpong\obj\Debug\jogo.csproj.AssemblyReference.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\pingpong\obj\Debug\game.Form1.resources
+C:\Users\lilsp\OneDrive\Documentos\Aula\pingpong\obj\Debug\game.frmMenu.resources
+C:\Users\lilsp\OneDrive\Documentos\Aula\pingpong\obj\Debug\pingpong.Properties.Resources.resources
+C:\Users\lilsp\OneDrive\Documentos\Aula\pingpong\obj\Debug\jogo.csproj.GenerateResource.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\pingpong\obj\Debug\jogo.csproj.CoreCompileInputs.cache
+C:\Users\lilsp\OneDrive\Documentos\Aula\pingpong\bin\Debug\pingpong.exe.config
+C:\Users\lilsp\OneDrive\Documentos\Aula\pingpong\bin\Debug\pingpong.exe
+C:\Users\lilsp\OneDrive\Documentos\Aula\pingpong\bin\Debug\pingpong.pdb
+C:\Users\lilsp\OneDrive\Documentos\Aula\pingpong\obj\Debug\pingpong.exe
+C:\Users\lilsp\OneDrive\Documentos\Aula\pingpong\obj\Debug\pingpong.pdb
